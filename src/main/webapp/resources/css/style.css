@@ -69,3 +69,16 @@ body header{
 	margin: auto;
 	float:right;
 }
+div#loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 150px;
+    height: 150px;
+    z-index: 9999;
+    background: url(/css/loading.gif) no-repeat;
+    background-color: transparent;
+    visibility: visible;
+}

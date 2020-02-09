@@ -6,6 +6,19 @@
     <title>جستجو</title>
     <link rel="stylesheet" href="resources/css/style.css">
     <link rel="stylesheet" href="resources/css/bootstrap.min.css"/>
+    <script>
+        $(document).ready(function () {
+            $('.js-advancBtn').click(function () {
+                $(this).toggleClass('is-active');
+                $('.js-formSearch').slideToggle('is-active');
+            });
+
+            //selct
+            $('.js-BranchLIst').select2({});
+
+        });
+
+    </script>
 </head>
 
 <body>
@@ -16,8 +29,8 @@
 
 
     <header>با وارد کردن مبدا و مقصد جستجو کنید: </header>
-    مبدا:<input type="text" name="origin" placeholder="مبدا"/><br/>
-    مقصد:<input type="text" name="destination" placeholder="مقصد"/><br/>
+    مبدا:<input class="js-advancBtn" type="text" name="origin" placeholder="مبدا"/><br/>
+    مقصد:<input class="js-advancBtn" type="text" name="destination" placeholder="مقصد"/><br/>
     <button type="submit" class="button">جستجو</button>
     </div>
 </form>

@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="resources/css/bootstrap.min.css"/>
 </head>
 <body>
+<div id="loading" style="top: 50%; left: 75%; visibility: visible;"></div>
 <form action="login" dir="rtl">
     <div class="form-group">
         <header>از اینجا وارد شوید: </header><br>
@@ -27,7 +28,6 @@
 
     </div>
 </footer>
-
 
 </body>
 </html>

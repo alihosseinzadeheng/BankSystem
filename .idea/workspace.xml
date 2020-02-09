@@ -7,86 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fdea303-fb48-4bf2-99aa-84ed16899af4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/project/config/repositories/CrudRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/project/config/repositories/CrudRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/project/entities/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/project/entities/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/project/entities/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/project/entities/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/project/services/customermanagement/GetLoginInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/project/services/customermanagement/GetRegistrationInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/project/services/customermanagement/LoginByCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/project/services/customermanagement/LoginByCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/project/services/customermanagement/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/project/services/customermanagement/Register.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/project/services/tripmanagement/GetSearchInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ir/mctab/project/services/tripmanagement/SearchInTrips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ir/mctab/project/services/tripmanagement/SearchInTrips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/displaytable.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/displaytable.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/hi.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/javascript.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/searchtriplist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/searchtriplist.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ticket01.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/project/config/repositories/CrudRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/project/config/repositories/CrudRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/project/entities/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/project/entities/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/project/entities/Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/project/entities/Ticket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/project/services/customermanagement/GetLoginInformation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/project/services/customermanagement/GetRegistrationInformation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/project/services/customermanagement/LoginByCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/project/services/customermanagement/LoginByCustomer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/project/services/customermanagement/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/project/services/customermanagement/Register.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/project/services/tripmanagement/GetSearchInformation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/project/services/tripmanagement/SearchInTrips.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/project/services/tripmanagement/SearchInTrips.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ir/mctab/project/services/ticketmanagement/TicketChooser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ir/mctab/project/services/ticketmanagement/TicketChooser.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ticket01.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/config/repositories/CrudRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/config/repositories/CrudRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/entities/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/entities/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/entities/Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/entities/Ticket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/services/customermanagement/GetLoginInformation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/services/customermanagement/GetRegistrationInformation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/services/customermanagement/LoginByCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/services/customermanagement/LoginByCustomer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/services/customermanagement/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/services/customermanagement/Register.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/services/tripmanagement/GetSearchInformation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/services/tripmanagement/SearchInTrips.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/services/tripmanagement/SearchInTrips.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/jquery-3.4.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/MyListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/config/HibernateUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/config/repositories/CrudRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/entities/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/entities/Ticket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/entities/TripList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/filter/utf8encoderfilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/repositories/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/repositories/TicketRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/repositories/TripRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/services/customermanagement/GetLoginInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/services/customermanagement/GetRegistrationInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/services/customermanagement/LoginByCustomer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/services/customermanagement/Register.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/services/tripmanagement/GetSearchInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/services/tripmanagement/SearchInTrips.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/java/ir/mctab/project/shared/AuthenticationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/resources/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/resources/jquery-3.4.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/resources/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/resources/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/resources/js/jquery-3.4.1.slim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/resources/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/bus.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/displaytable.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/displaytable.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/hi.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/services/ticketmanagement/TicketChooser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/WEB-INF/classes/ir/mctab/project/services/ticketmanagement/TicketChooser.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ticket01/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ticket01/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/resources/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ticket01/searchtriplist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ticket01/searchtriplist.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ticket01/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ticket01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ticket01.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +60,13 @@
         <item name="hibernate.cfg.xml/Hibernate" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="myticketdatabase: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hibernate.cfg.xml/Hibernate" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="myticketdatabase: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="ticket: table" type="dbc44a63:MariaImplModel$Table" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
@@ -189,11 +128,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ME\ticket01\src\main\webapp" />
+      <recent name="C:\Users\ME\ticket01\src\main\webapp\resources\css" />
       <recent name="C:\Users\ME\ticket01\src\main\webapp\resources\js" />
       <recent name="C:\Users\ME\ticket01\src\main\webapp\resources\coolshit" />
-      <recent name="C:\Users\ME\ticket01\src\main\webapp" />
       <recent name="C:\Users\ME\ticket01\src\main" />
-      <recent name="C:\Users\ME\ticket01\src\main\webapp\WEB-INF\resources\css" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ir.mctab.project.services.ticketmanagement" />
@@ -321,11 +260,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -359,64 +293,89 @@
       <workItem from="1580523338981" duration="6034000" />
       <workItem from="1580628612150" duration="27948000" />
       <workItem from="1609700527934" duration="10524000" />
+      <workItem from="1580834203136" duration="610000" />
+      <workItem from="1580838982988" duration="648000" />
+      <workItem from="1580847065320" duration="74000" />
+      <workItem from="1580871130219" duration="780000" />
+      <workItem from="1580932768311" duration="620000" />
+      <workItem from="1581017299817" duration="594000" />
+      <workItem from="1581044970451" duration="2052000" />
+      <workItem from="1581098223648" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="456" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1580769993987">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="456" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1304.768@0.0.1304.768" timestamp="1580769993987" />
-    <state width="1080" height="226" key="GridCell.Tab.0.bottom" timestamp="1580771152946">
+    <state width="1080" height="179" key="GridCell.Tab.0.bottom" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1580771152946" />
-    <state width="1080" height="226" key="GridCell.Tab.0.center" timestamp="1580771152945">
+    <state width="1080" height="179" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state width="1080" height="179" key="GridCell.Tab.0.center" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1580771152945" />
-    <state width="1080" height="226" key="GridCell.Tab.0.left" timestamp="1580771152944">
+    <state width="1080" height="179" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state width="1080" height="179" key="GridCell.Tab.0.left" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1580771152944" />
-    <state width="1080" height="226" key="GridCell.Tab.0.right" timestamp="1580771152945">
+    <state width="1080" height="179" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state width="1080" height="179" key="GridCell.Tab.0.right" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1580771152945" />
-    <state width="1080" height="226" key="GridCell.Tab.1.bottom" timestamp="1580771152948">
+    <state width="1080" height="179" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state width="1080" height="179" key="GridCell.Tab.1.bottom" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.1.bottom/0.0.1304.768@0.0.1304.768" timestamp="1580771152948" />
-    <state width="1080" height="226" key="GridCell.Tab.1.center" timestamp="1580771152947">
+    <state width="1080" height="179" key="GridCell.Tab.1.bottom/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state width="1080" height="179" key="GridCell.Tab.1.center" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.1.center/0.0.1304.768@0.0.1304.768" timestamp="1580771152947" />
-    <state width="1080" height="226" key="GridCell.Tab.1.left" timestamp="1580771152946">
+    <state width="1080" height="179" key="GridCell.Tab.1.center/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state width="1080" height="179" key="GridCell.Tab.1.left" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.1.left/0.0.1304.768@0.0.1304.768" timestamp="1580771152946" />
-    <state width="1080" height="226" key="GridCell.Tab.1.right" timestamp="1580771152947">
+    <state width="1080" height="179" key="GridCell.Tab.1.left/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state width="1080" height="179" key="GridCell.Tab.1.right" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1580771152947" />
-    <state width="1080" height="226" key="GridCell.Tab.2.bottom" timestamp="1580771152949">
+    <state width="1080" height="179" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state width="1080" height="179" key="GridCell.Tab.2.bottom" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.2.bottom/0.0.1304.768@0.0.1304.768" timestamp="1580771152949" />
-    <state width="1080" height="226" key="GridCell.Tab.2.center" timestamp="1580771152949">
+    <state width="1080" height="179" key="GridCell.Tab.2.bottom/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state width="1080" height="179" key="GridCell.Tab.2.center" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.2.center/0.0.1304.768@0.0.1304.768" timestamp="1580771152948" />
-    <state width="1080" height="226" key="GridCell.Tab.2.left" timestamp="1580771152948">
+    <state width="1080" height="179" key="GridCell.Tab.2.center/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state width="1080" height="179" key="GridCell.Tab.2.left" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.2.left/0.0.1304.768@0.0.1304.768" timestamp="1580771152948" />
-    <state width="1080" height="226" key="GridCell.Tab.2.right" timestamp="1580771152949">
+    <state width="1080" height="179" key="GridCell.Tab.2.left/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state width="1080" height="179" key="GridCell.Tab.2.right" timestamp="1581049349051">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state width="1080" height="226" key="GridCell.Tab.2.right/0.0.1304.768@0.0.1304.768" timestamp="1580771152949" />
+    <state width="1080" height="179" key="GridCell.Tab.2.right/0.0.1304.768@0.0.1304.768" timestamp="1581049349051" />
+    <state x="346" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1580838987492">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="346" y="205" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1580838987492" />
   </component>
 </project>
